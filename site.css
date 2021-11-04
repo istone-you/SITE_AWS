@@ -1,5 +1,7 @@
 
-html { scroll-behavior: smooth;}
+html { 
+  scroll-behavior: smooth;
+}
 
 
 body{
@@ -166,6 +168,17 @@ p,h1:hover {
 .DAZN-img:hover {
   opacity: 0.5;
   width: 135px;
+}
+
+.AWS-img {
+  transition: all 0.5s;
+  width: 115px;
+  padding-left: 70px;
+}
+
+.AWS-img:hover {
+  opacity: 0.5;
+  width: 120px;
 }
 
 .co {
