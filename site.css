@@ -173,7 +173,6 @@ p,h1:hover {
 .AWS-img {
   transition: all 0.5s;
   width: 115px;
-  padding-right: 10px;
 }
 
 .AWS-img:hover {
