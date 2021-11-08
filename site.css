@@ -65,10 +65,19 @@ p,h1:hover {
   position:relative;
 }
 
-.logo:hover {
+.logo-link {
+  background-color: gray;
+}
+
+.logo-link:hover .logo{
   opacity: 0;
   animation: right-efect 0.3s forwards;
 }
+
+.logo-link:hover .logo-gif{
+  padding-left: 20px;
+}
+
 
 @keyframes right-efect {
   0% {
@@ -102,7 +111,7 @@ p,h1:hover {
 
 .logo:hover + .logo-gif {
   opacity: 1;
-  right: 140px;
+  right: 160px;
 }
 
 .logo-link:active{

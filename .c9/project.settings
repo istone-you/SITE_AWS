@@ -1,4 +1,7 @@
 {
+    "extensions": {
+        "@json.schemas": []
+    },
     "language": {
         "tern_defs": {
             "json()": {
