@@ -179,17 +179,28 @@ p,h1:hover {
   width: 135px;
 }
 
-.AWS-img {
+.AWS-img{
   transition: all 0.5s;
   width: 115px;
-  position: relative;
-  left: 10px;
 }
 
 .AWS-img:hover {
   opacity: 0.5;
   width: 120px;
 }
+
+.Rails-img{
+  transition: all 0.5s;
+  width: 105px;
+}
+
+.Rails-img:hover {
+  opacity: 0.5;
+  width: 110px;
+}
+
+
+
 
 .co {
   display:flex;
