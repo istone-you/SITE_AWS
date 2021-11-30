@@ -171,12 +171,12 @@ p,h1:hover {
 
 .DAZN-img {
   transition: all 0.5s;
-  width: 130px;
+  width: 110px;
 }
 
 .DAZN-img:hover {
   opacity: 0.5;
-  width: 135px;
+  width: 115px;
 }
 
 .AWS-img{
