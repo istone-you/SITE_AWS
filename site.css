@@ -22,7 +22,7 @@ header {
   position: fixed;
   top: 15px;
   right: 10px;
-  width: 350px;
+  width: 380px;
 }
 
 ul {
@@ -197,6 +197,16 @@ p,h1:hover {
 .Rails-img:hover {
   opacity: 0.5;
   width: 110px;
+}
+
+.psstore-img{
+  transition: all 0.5s;
+  width: 115px;
+}
+
+.psstore-img:hover {
+  opacity: 0.5;
+  width: 120px;
 }
 
 
