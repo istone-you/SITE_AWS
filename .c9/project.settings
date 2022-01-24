@@ -6,6 +6,9 @@
         "@aws.profile": "profile:default",
         "@json.schemas": []
     },
+    "instance": {
+        "@automaticShutdown": "30"
+    },
     "language": {
         "tern_defs": {
             "json()": {

@@ -189,14 +189,14 @@ p,h1:hover {
   width: 120px;
 }
 
-.Rails-img{
+.ct-img{
   transition: all 0.5s;
-  width: 105px;
+  width: 140px;
 }
 
-.Rails-img:hover {
+.ct-img:hover {
   opacity: 0.5;
-  width: 110px;
+  width: 145px;
 }
 
 .psstore-img{
