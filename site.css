@@ -179,6 +179,16 @@ p,h1:hover {
   width: 115px;
 }
 
+.NBA-img {
+  transition: all 0.5s;
+  width: 125px;
+}
+
+.NBA-img:hover {
+  opacity: 0.5;
+  width: 130px;
+}
+
 .AWS-img{
   transition: all 0.5s;
   width: 115px;
