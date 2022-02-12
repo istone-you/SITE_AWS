@@ -118,30 +118,10 @@ p,h1:hover {
   opacity: 0.7;
 }
 
-
-.view {
-  height: 400px;
-  background-image: url(image/絶景.jpeg);
-  background-size:cover;
-  width: 100%;
-  margin-bottom: 60px;
+.contents {
+  padding-top: 80px;
 }
 
-.view h1 {
-  color: white;
-  font-size: 40px;
-  font-family: "Impact";
-  line-height: 400px;
-  text-align: center;
-}
-
-.view p {
-  text-align: center;
-  margin-top: -200px;
-  color: white;
-  font-size: 15px;
-  font-weight: bold;
-}
 .img{ 
   transition: all 0.5s;
   width: 203px;
